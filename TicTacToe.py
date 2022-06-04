@@ -14,25 +14,25 @@ def reset():
     clicked = True
     count = 0
 
-    but1 = Button(root, text=" ", font=("Verdana", 24), height=3, width=6, bg="SystemButtonFace",
+    but1 = Button(root, text=" ", font=("Verdana", 24), height=3, width=6,
                   command=lambda: b_click(but1))
-    but2 = Button(root, text=" ", font=("Verdana", 24), height=3, width=6, bg="SystemButtonFace",
+    but2 = Button(root, text=" ", font=("Verdana", 24), height=3, width=6,
                   command=lambda: b_click(but2))
-    but3 = Button(root, text=" ", font=("Verdana", 24), height=3, width=6, bg="SystemButtonFace",
+    but3 = Button(root, text=" ", font=("Verdana", 24), height=3, width=6,
                   command=lambda: b_click(but3))
 
-    but4 = Button(root, text=" ", font=("Verdana", 24), height=3, width=6, bg="SystemButtonFace",
+    but4 = Button(root, text=" ", font=("Verdana", 24), height=3, width=6,
                   command=lambda: b_click(but4))
-    but5 = Button(root, text=" ", font=("Verdana", 24), height=3, width=6, bg="SystemButtonFace",
+    but5 = Button(root, text=" ", font=("Verdana", 24), height=3, width=6,
                   command=lambda: b_click(but5))
-    but6 = Button(root, text=" ", font=("Verdana", 24), height=3, width=6, bg="SystemButtonFace",
+    but6 = Button(root, text=" ", font=("Verdana", 24), height=3, width=6,
                   command=lambda: b_click(but6))
 
-    but7 = Button(root, text=" ", font=("Verdana", 24), height=3, width=6, bg="SystemButtonFace",
+    but7 = Button(root, text=" ", font=("Verdana", 24), height=3, width=6,
                   command=lambda: b_click(but7))
-    but8 = Button(root, text=" ", font=("Verdana", 24), height=3, width=6, bg="SystemButtonFace",
+    but8 = Button(root, text=" ", font=("Verdana", 24), height=3, width=6,
                   command=lambda: b_click(but8))
-    but9 = Button(root, text=" ", font=("Verdana", 24), height=3, width=6, bg="SystemButtonFace",
+    but9 = Button(root, text=" ", font=("Verdana", 24), height=3, width=6,
                   command=lambda: b_click(but9))
 
     # Размещение на экране
